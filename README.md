@@ -11,7 +11,7 @@ cout<<"Room is too cold,turn on the heater";
 }
 else if(temp>=15 && temp<=25)
 {
-  cout<<"Room temperature is normal";
+  cout<<"Room temperature is normal,No action needed";
 }
 else if(temp>25 && temp<=35)
 {
